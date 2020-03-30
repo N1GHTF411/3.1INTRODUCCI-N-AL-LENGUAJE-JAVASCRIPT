@@ -1,0 +1,30 @@
+*{
+	margin:0;
+	padding:0; 
+}
+
+h1{
+	color:rgb(7, 117, 207);
+	font-size:40px;
+	background:rgb(84, 10, 134); 
+	padding:15px;    
+}
+
+body{
+	background:rgb(89, 99, 102); 
+}
+
+.menu{
+	width:100%; 
+	list-style:none;
+}
+
+.items a{
+	text-decoration:none;
+	color:white;
+	font-size:25px;  
+}
+
+.items:hover{
+   background:rgb(29, 28, 28); 
+}

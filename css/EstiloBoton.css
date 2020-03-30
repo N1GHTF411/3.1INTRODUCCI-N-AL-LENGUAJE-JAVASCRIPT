@@ -1,0 +1,32 @@
+.boton {
+    width: 250px;
+    height: 50px;
+    background-color: #F80;
+    border-radius: 1em;
+    cursor: pointer;
+    transition: background-color 1s;
+}
+
+.boton:hover {
+    background-color: #888;
+}
+
+.Fact{
+	color:rgb(145, 4, 163);
+    font-family:'Times New Roman'; 
+}
+
+.Palindromo_1{
+	color:rgb(226, 139, 7);
+    font-family:Arial; 
+}
+
+.Palindromo_2{
+	color:rgb(7, 11, 226);
+    font-family:Tahoma; 
+}
+
+.RFC{
+    color:red;
+    font-style:arial;
+}
